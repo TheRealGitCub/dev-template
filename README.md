@@ -3,7 +3,7 @@
 
 Not much to it. Just my quick boilerplate for making websites in PHP and Bootstrap.
 
-# Included
+## Included
 
 - [Bootstrap](http://getbootstrap.com)
 - [jQuery](http://jquery.com)
